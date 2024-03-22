@@ -103,4 +103,14 @@
             color: var(--verde);
             text-transform: uppercase;
         }
-        
+        .aba-conteudo{
+            width: 100px;
+            height: 100px;
+            background: #b5b;
+            margin: 10px;
+          }
+          
+          .ativo{
+            display: block;
+          }
+          
